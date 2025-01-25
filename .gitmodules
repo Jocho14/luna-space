@@ -1,0 +1,12 @@
+[submodule "furniture-store-ecommerce-ui"]
+	path = furniture-store-ecommerce-ui
+	url = https://github.com/Jocho14/furniture-store-ecommerce-ui.git
+[submodule "furniture-store-ecommerce-api"]
+	path = furniture-store-ecommerce-api
+	url = https://github.com/Jocho14/furniture-store-ecommerce-api.git
+[submodule "furniture-store-ecommerce-stripe"]
+	path = furniture-store-ecommerce-stripe
+	url = https://github.com/Jocho14/furniture-store-ecommerce-stripe.git
+[submodule "furniture-store-ecommerce-db"]
+	path = furniture-store-ecommerce-db
+	url = https://github.com/Jocho14/furniture-store-ecommerce-db.git
